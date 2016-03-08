@@ -1,0 +1,103 @@
+<catlog>
+<movie id="1" title="12 Monkeys">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Janet Peoples Inspired by</utterance>
+   <speaker>2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>LA JETEE, a Chris Marker Film Production Draft June 27, 1994</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="6">
+   <speaker>COLE</speaker>
+      <mode></mode>
+      <context>JOSE's face is almost lost in shadow. What there is of it is youthful. He's just a scared Puerto Rican kid!</context>
+      <utterance>Ssssst! Jose, what's going on?</utterance>
+   <speaker>JOSE</speaker>
+      <mode></mode>
+      <context>JOSE immediately rolls over and feigns sleep as SCARFACE, a menacing guard with a jagged scar running down his cheek, looms close to COLE's cage and unlocks it.</context>
+      <utterance>"Volunteers" again.</utterance>
+   <speaker>SCARFACE</speaker>
+      <mode></mode>
+      <context>The PRISONERS in the other cages watch silently with narrowed eyes.</context>
+      <utterance>"Volunteer duty".</utterance>
+   <speaker>COLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't volunteer.</utterance>
+   <speaker>SCARFACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You causing trouble again?</utterance>
+   <speaker>COLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No trouble.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="11">
+   <speaker>TINY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>James Cole. Cleared from quarantine.</utterance>
+   <speaker>MICROBIOLOGIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. You two wait outside.</utterance>
+   <speaker>SCARFACE</speaker>
+      <mode></mode>
+      <context>Headlines: "CLOCK TICKING! NO CURE YET!"</context>
+      <utterance>He's got a history, Doctor. Violence. COLE'S eyes return to the walls.</utterance>
+   <speaker>SCARFACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anti-social six -- doing 25 to life.</utterance>
+   <speaker>ENGINEER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think he's going to hurt us. You're not going to hurt us, are you Mr. Cole? COLE'S head turns quickly to the ENGINEER.</utterance>
+   <speaker>COLE</speaker>
+      <mode></mode>
+      <context>The GUARDS exchange a look, shrug, exit, closing the door.</context>
+      <utterance>No, sir.</utterance>
+   <speaker>MICROBIOLOGIST</speaker>
+      <mode></mode>
+      <context>COLE goes to the empty chair at the conference table, sits down.</context>
+      <utterance>Why don't you sit down, Mr. Cole.</utterance>
+   <speaker>ASTROPHYSICIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We want you to tell us about last night.</utterance>
+   <speaker>COLE</speaker>
+      <mode></mode>
+      <context>The SCIENTISTS don't say anything. They just study him carefully.</context>
+      <utterance>I went to the surface and I collected specimens like I was told.</utterance>
+   <speaker>COLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mashed the spider, didn't I?</utterance>
+   <speaker>MICROBIOLOGIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll get to the spider later, Mr. Cole. Right now, we want to know everything that you saw.</utterance>
+</dialogue>
+</movie>
+
+
+<movie id="2" title="1492 Conquest of Paradise">
+
+<dialogue id="1" n_utterances="12">
+<speaker>222222</speaker>
+<utterance>fuck you</utterance>
+<speaker>33333</speaker>
+<utterance>oh!</utterance>
+<speaker>33333</speaker>
+<utterance>my god!</utterance>
+</dialogue>
+
+</movie>
+</catlog>

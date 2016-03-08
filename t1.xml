@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    <maxid>4</maxid>
+    <login username="xmltest" passwd='123456'>
+        <caption>Python</caption>
+        <item id="4">
+            <caption>xml test</caption>
+            <caption2>xml test cp2</caption2>
+        </item>
+        <item id="5">
+            <caption>xml test2</caption>
+        </item>
+    </login>
+    <item id="2">
+        <caption>Hello World</caption>
+    </item>
+</catalog>
